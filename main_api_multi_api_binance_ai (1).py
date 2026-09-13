@@ -39,11 +39,11 @@ from aiogram.types import (
 # ==============================================================================
 # 1. BOT CONFIGURATION & CONSTANTS
 # ==============================================================================
-BOT_TOKEN = "8929224950:AAHoco-7waeiSFQDLZ2YDt9XCBWqCn_3Zks"
-BOT_USERNAME = "@BALA_MOD_CHIP_PRICE_BOT"
-ADMIN_ID = 8620035649
+BOT_TOKEN = "7775351709:AAEMfs2YkpIhZLg2eiZIdHS36dGDg1ykExw"
+BOT_USERNAME = "@PANEL_SHOP_DECODED_BOT"
+ADMIN_ID = 6452869652
 SECOND_ADMIN_ID = 0
-ADMIN_CONTACT = "@CYBER_HARDIK"
+ADMIN_CONTACT = "@Dery8990"
 
 VIP_DISCOUNT_PERCENTAGE = 15.0
 VIP_PRICE_INR = 299.0
